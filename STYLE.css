@@ -1,0 +1,150 @@
+.text
+{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:1.2em;
+    font-weight:regular;
+    left:650px;
+    top:60px;
+    width:50%;
+}
+.text1
+{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:1.2em;
+    font-weight:regular;
+    left:70px;
+    top:550px;
+    width:40%;
+} 
+.text2
+{
+	font-family: Lucida Calligraphy;
+    z-index:100;
+    position:absolute;    
+    color:#E8D8C4;
+    font-size:1.1em;
+    font-weight:regular;
+    left:710px;
+    top:650px;
+    width:35%;
+} 
+.text02 
+{
+
+font-family: Arial;
+    z-index:100;
+    position:absolute;    
+    color:Black;
+    font-size:1.2em;
+    font-weight:regular;
+    left:710px;
+    top:550px;
+    width:35%;
+}
+
+.text3 
+{
+    z-index:100;
+    position:absolute;    
+    color:black;
+    font-size:1.2em;
+    font-weight:regular;
+    left:70px;
+    top:1120px;
+    width:40%;
+}
+.img0
+{
+ 
+  position: absolute; 
+  left: 70px;
+  top: 70px;
+  width: 60%;
+
+}
+.img 
+{
+    position:absolute;    
+    left:400px;
+    top:1180px;
+    width:40%;
+}
+.img1
+{
+    position:absolute;    
+    left:600px;
+    top:1180px;
+    width:40%;
+}
+.img2
+{
+    position:absolute;    
+    left:800px;
+    top:1180px;
+    width:40%;
+}
+.img3
+{
+    position:absolute;    
+    left:1000px;
+    top:1180px;
+    width:40%;
+}
+.img4
+{
+    position:absolute;    
+    left:1200px;
+    top:1180px;
+    width:40%;
+}
+.img5
+{
+    position:absolute;    
+    left:400px;
+    top:1380px;
+    width:40%;
+}
+.img6
+{
+    position:absolute;    
+    left:600px;
+    top:1380px;
+    width:40%;
+}
+.img7
+{
+    position:absolute;    
+    left:800px;
+    top:1380px;
+    width:40%;
+}
+.img8
+{
+    position:absolute;    
+    left:1000px;
+    top:1380px;
+    width:40%;
+}
+.img9
+{
+    position:absolute;    
+    left:1200px;
+    top:1380px;
+    width:40%;
+}
+.img10
+{
+
+	position:absolute;    
+    left:670px;
+    top:610px;
+    width:90%;
+}
+
+p{
+	font-family:Times New Roman;
+}
