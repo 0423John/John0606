@@ -7,7 +7,7 @@
     font-weight:regular;
     left:650px;
     top:60px;
-    width:50%;
+    width:60%;
 }
 .text1
 {
@@ -17,7 +17,7 @@
     font-size:1.2em;
     font-weight:regular;
     left:70px;
-    top:550px;
+    top:680px;
     width:40%;
 } 
 .text2
@@ -28,9 +28,9 @@
     color:#E8D8C4;
     font-size:1.1em;
     font-weight:regular;
-    left:710px;
-    top:650px;
-    width:35%;
+    left:760px;
+    top:770px;
+    width:30%;
 } 
 .text02 
 {
@@ -41,8 +41,8 @@ font-family: Arial;
     color:Black;
     font-size:1.2em;
     font-weight:regular;
-    left:710px;
-    top:550px;
+    left:760px;
+    top:680px;
     width:35%;
 }
 
@@ -53,8 +53,8 @@ font-family: Arial;
     color:black;
     font-size:1.2em;
     font-weight:regular;
-    left:70px;
-    top:1120px;
+    left:100px;
+    top:1460px;
     width:40%;
 }
 .img0
@@ -69,81 +69,82 @@ font-family: Arial;
 .img 
 {
     position:absolute;    
-    left:400px;
-    top:1180px;
+    left:480px;
+    top:1560px;
     width:40%;
 }
 .img1
 {
     position:absolute;    
-    left:600px;
-    top:1180px;
+    left:690px;
+    top:1560px;
     width:40%;
 }
 .img2
 {
     position:absolute;    
-    left:800px;
-    top:1180px;
+    left:900px;
+    top:1560px;
     width:40%;
 }
 .img3
 {
     position:absolute;    
-    left:1000px;
-    top:1180px;
+    left:1110px;
+    top:1560px;
     width:40%;
 }
 .img4
 {
     position:absolute;    
-    left:1200px;
-    top:1180px;
+    left:1320px;
+    top:1560px;
     width:40%;
 }
 .img5
 {
     position:absolute;    
-    left:400px;
-    top:1380px;
+    left:480px;
+    top:1780px;
     width:40%;
 }
 .img6
 {
     position:absolute;    
-    left:600px;
-    top:1380px;
+    left:690px;
+    top:1780px;
     width:40%;
 }
 .img7
 {
     position:absolute;    
-    left:800px;
-    top:1380px;
+    left:900px;
+    top:1780px;
     width:40%;
 }
 .img8
 {
     position:absolute;    
-    left:1000px;
-    top:1380px;
+    left:1110px;
+    top:1780px;
     width:40%;
 }
 .img9
 {
     position:absolute;    
-    left:1200px;
-    top:1380px;
+    left:1320px;
+    top:1780px;
     width:40%;
 }
 .img10
 {
 
 	position:absolute;    
-    left:670px;
-    top:610px;
-    width:90%;
+    left:730px;
+    top:780px;
+    width:100%;
 }
+
 
 p{
 	font-family:Times New Roman;
